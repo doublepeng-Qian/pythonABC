@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8a49d81-b4b9-4ee0-ae27-8d37400c2cee" name="Default Changelist" comment="" />
+    <list default="true" id="a8a49d81-b4b9-4ee0-ae27-8d37400c2cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0002test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0002test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PythonABC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZZR3FEIq4QwZE9vnPXHnxPq97D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,21 +82,25 @@
     </state>
     <state x="2380" y="143" key="#0x0001helloworld.py/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585044996761" />
     <state x="2380" y="143" key="#0x0001helloworld/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585044671876" />
-    <state width="1362" height="149" key="GridCell.Tab.0.bottom" timestamp="1585045710750">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="158" key="GridCell.Tab.0.bottom" timestamp="1585147316785">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585147316785" />
     <state width="1362" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585045710750" />
-    <state width="1362" height="149" key="GridCell.Tab.0.center" timestamp="1585045710750">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="158" key="GridCell.Tab.0.center" timestamp="1585147316785">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585147316785" />
     <state width="1362" height="149" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585045710750" />
-    <state width="1362" height="149" key="GridCell.Tab.0.left" timestamp="1585045710750">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="158" key="GridCell.Tab.0.left" timestamp="1585147316785">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585147316785" />
     <state width="1362" height="149" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585045710750" />
-    <state width="1362" height="149" key="GridCell.Tab.0.right" timestamp="1585045710750">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="158" key="GridCell.Tab.0.right" timestamp="1585147316785">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585147316785" />
     <state width="1362" height="149" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585045710750" />
     <state x="2173" y="173" key="SettingsEditor" timestamp="1585044634720">
       <screen x="1920" y="0" width="1920" height="1040" />

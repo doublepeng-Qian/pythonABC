@@ -34,6 +34,34 @@ print("test_4:")
 print(word)
 print(word[5])
 print(word[-1])
+print('\n')
 
 # test_5
 print("test_5:")
+s = 'I love my country.'
+print(s)
+print("length:")
+L = len(s)
+print(L)
+print('\n')
+
+# test_6
+# Fibonacci series:
+# the sum of two elements defines the next
+print("test_6")
+a, b = 0, 1
+while a < 10:
+    print(a)
+    a, b = b, a + b
+
+
+# test_7
+#print("test_7")
+#a, b = 0, 1
+#while a < 1000:
+#    print(a, end=',')
+#    a, b = b, a+b
+
+
+
+
