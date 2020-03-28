@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8a49d81-b4b9-4ee0-ae27-8d37400c2cee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0x0003flowcontrol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0003flowcontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0003flowcontrol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
